@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TemplateBase",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -10,14 +17,9 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "PCG",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
 		"Windows"
 	]
 }
