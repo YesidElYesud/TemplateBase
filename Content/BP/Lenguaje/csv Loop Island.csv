@@ -1,0 +1,82 @@
+Row Name,Español,Ingles,chino,Frances
+menu1,Inicio,Home,Página inicial,Accueilent
+menu2,Salir,Exit,Sair,Quitter
+menu3,Pausa,Pause,Pausa,Pause
+menu4,Opciones,Options,Opções,Options
+menu5,Lenguaje,Language,Idioma,Langue
+menu6,"""E"" para interactuar","""E"" for interact",E para interagir,"""E"" pour interact"
+menu7,"""E"" para dialogar","""E"" for dialog",E para diálogo,"""E"" pour dialogue"
+menu8,Continuar,Continuar,Continuar,Continuer
+menu9,Volver,Back,Voltar,Retour à
+npc_captain01,"Acabo de llegar a tierra y ya extraño a mi amor: el mar. Pero ha sido una travesía muy dura, estoy exhausto!","I have just arrived on land and I already miss my love: the sea. But it has been a very hard crossing, I am exhausted!","Acabei de aterrissar e já estou com saudades do meu amor: o mar. Mas foi uma travessia muito difícil, estou exausto!","Je viens d'atterrir et mon amour me manque déjà : la mer. Mais la traversée a été très dure, je suis épuisée !"
+capitan2,Como esta?,How are you?,Como estás?,Comment allez-vous ?
+capitan3,Buenas noches Joven,Good evening Young man,Boa noite Jovem,Bonsoir Jeune homme
+testnpc1,Estoy perdido,I'm lost,Estou perdido,Je suis perdu
+testnpc2,Ayudame a salir de aqui!,Help me get out of here!,Ajuda-me a sair daqui!,Aidez-moi à sortir d'ici !
+testnpc3,Gracias por traerlo,Thank you for bringing it,Obrigado por o trazeres,Merci de l'avoir apporté
+yesid1,"hola, te he visto correr toda la mañana.","hi, i've seen you running all morning.","olá, vi-te a correr toda a manhã.","Bonjour, je t'ai vu courir toute la matinée."
+yesid2,¿has escuchado los rumores? será mejor prepararse.,have you heard the rumors? better get ready.,ouviste os rumores? é melhor preparares-te.,as-tu entendu les rumeurs ? tu ferais mieux de te préparer.
+yesid3,"ha sido un día triste, mucha gente quedó atrás.","it's been a sad day, many people left behind.","foi um dia triste, muitas pessoas ficaram para trás.","c'est une triste journée, beaucoup de gens sont restés derrière."
+yesid4,"ha sido un dia triste, gracias por ayudar.","it's been a sad day, thanks for helping.","foi um dia triste, obrigado por ajudares.","c'est une triste journée, merci d'avoir aidé."
+yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a hard day, thanks to you many have been saved.","foi um dia difícil, graças a ti muitos foram salvos.","c'est une dure journée, grâce à toi beaucoup ont été sauvés."
+andres1,yo ayudé a construir este pueblo con mis propias manos.,i helped build this town with my own hands.,ajudei a construir esta aldeia com as minhas próprias mãos.,j'ai aidé à construire ce village de mes propres mains.
+andres2,¿ya escuchaste? parece que la gente cree cualquier cosa.,have you heard? it seems people believe anything.,ouviste? parece que as pessoas acreditam em tudo.,as-tu entendu ? il semble que les gens croient n'importe quoi.
+andres3,"todo lo que construimos, en ruinas... ¿que nos preparará el destino?","everything we built, in ruins.... what will fate prepare for us?","tudo o que construímos, em ruínas... o que é que o destino nos vai preparar?","tout ce que nous avons construit, en ruines... qu'est-ce que le destin nous prépare ?"
+gunter1,"escucha esto, aún no sé cómo terminarlo.","listen to this, i still don't know how to finish it.","ouçam isto, ainda não sei como acabar.","écoutez ça, je ne sais toujours pas comment le finir."
+gunter2,¿qué tal? ¡con esta canción el pueblo va a sentir una erupción de emociones!,how about it? with this song the people are going to feel an eruption of emotions!,que tal? com esta canção as pessoas vão sentir uma erupção de emoções!,"qu'en pensez-vous ? avec cette chanson, les gens vont ressentir une éruption d'émotions !"
+gunter3,"me demoré una semana en crear esa pieza, y ahora todo el mundo sólo habla del volcán.","it took me a week to create that piece, and now everyone is only talking about the volcano.","levei uma semana a criar esta peça, e agora toda a gente só fala do vulcão.","il m'a fallu une semaine pour créer ce morceau, et maintenant tout le monde ne parle que du volcan."
+gunter4,¿recuerdas mi canción? la llamaré la despedida.,remember my song? i'll call it the farewell.,lembram-se da minha canção? vou chamar-lhe a despedida.,vous souvenez-vous de ma chanson ? je l'appellerai l'adieu.
+gunter5,esta canción será en memoria de ellos.,this song will be in memory of them.,esta canção será em memória deles.,cette chanson sera en leur mémoire.
+gunter6,"¡esta canción es por tí, héroe!","this song is for you, hero!","esta canção é para ti, herói!","cette chanson est pour toi, héros !"
+juan1,¡estoy emocionado! esta tarde embarco a Europa.,i'm excited! this afternoon i'm leaving for europe.,estou entusiasmado! parto para a europa esta tarde.,"je suis excité ! cet après-midi, je pars pour l'europe."
+juan2,no puedo creer que por un rumor hayan cancelado mi tiquete.,i can't believe that because of a rumor my ticket was cancelled.,não acredito que por causa de um boato cancelaram o meu bilhete.,"je n'arrive pas à croire qu'à cause d'une rumeur, ils ont annulé mon billet."
+juan3,"si me hubiese ido ayer, mi madre se habría quedado en el pueblo esperándome. ","if i had left yesterday, my mother would have stayed in town waiting for me.","se tivesse partido ontem, a minha mãe teria ficado na aldeia à minha espera.","si j'étais parti hier, ma mère serait restée au village pour m'attendre."
+sergio1,quisiera pasar mas tiempo con mi familia pero tengo que trabajar. ,i would like to spend more time with my family but i have to work.,gostaria de passar mais tempo com a minha família mas tenho de trabalhar.,j'aimerais passer plus de temps avec ma famille mais je dois travailler.
+sergio2,hoy es mi día de suerte ¡gracias a ese rumor tengo todo el día libre!,today is my lucky day. thanks to that rumor i have the whole day off!,hoje é o meu dia de sorte. graças a esse boato tenho o dia todo de folga!,"aujourd'hui, c'est mon jour de chance. grâce à cette rumeur, j'ai toute la journée de congé !"
+sergio3,"puedo haber sido peor, pude haber tenido que ir a trabajar. ","it could have been worse, i could have had to go to work.","podia ter sido pior, podia ter tido de ir trabalhar.","ça aurait pu être pire, j'aurais pu devoir aller travailler."
+sergio4,no todos los días se ve algo así... un día libre de trabajo.,it's not every day you see something like this... a day off from work.,não é todos os dias que se vê uma coisa destas... um dia de folga do trabalho.,ce n'est pas tous les jours qu'on voit quelque chose comme ça... un jour de congé.
+ana1,"hola, estoy muy feliz por el carnaval! deberías ir al puerto ¡todo está muy bonito!","hi, i'm so happy for the carnival! you should go to the port, everything is so beautiful!","olá, estou tão feliz pelo carnaval! devias ir ao porto, é tudo tão bonito!","salut, je suis tellement contente pour le carnaval ! tu devrais aller au port, tout est si beau !"
+ana2,"nunca había visto a la gente del pueblo tan alegre, de seguro un día para recordar.","i've never seen the people of the town so happy, for sure a day to remember.","nunca vi as pessoas da vila tão felizes, com certeza um dia para recordar.","je n'ai jamais vu les gens de la ville aussi heureux, c'est sûr que c'est un jour à retenir."
+ana3,"no voy a dejar que ese rumor me dañe el carnaval, esperé un año completo para esto.","i'm not going to let that rumor hurt my carnival, i waited a whole year for this.","não vou deixar que esse boato me estrague o carnaval, esperei um ano inteiro por isto.","je ne vais pas laisser cette rumeur me gâcher le carnaval, j'ai attendu toute une année pour ça."
+ana4,no pude ganar la corona de la reina del baile ¿quién cree en esa tontería del volcán?,"i couldn't win the crown for the prom queen, who believes in that volcano nonsense?","não consegui ganhar a coroa de rainha do baile, quem é que acredita nessas tretas dos vulcões?","Je n'ai pas pu gagner la couronne de reine du bal, qui croit à ces bêtises de volcan ?"
+ana5,"hermano ¡gracias! la corona no era importante, si tanto te preocupa me voy a ir al barco ya.","thanks brother! the crown wasn't important, if you're so worried i'm going to go to the boat now.","obrigado irmão! a coroa não era importante, se estás tão preocupado vou agora para o barco.","Merci mon frère ! La couronne n'était pas importante, si tu es si inquiet, je vais aller au bateau maintenant."
+ana6,"no te preocupes hermano, pero no llegues tarde al barco.","don't worry brother, but don't be late for the boat.","não te preocupes irmão, mas não te atrases para o barco.","Ne t'inquiète pas mon frère, mais ne sois pas en retard au bateau."
+ana7,"¡no hermano! yo me quedo en la casa, nada va a pasar. ","no brother! i'm staying in the house, nothing is going to happen.","não irmão! vou ficar em casa, não vai acontecer nada.","Non mon frère ! Je reste à la maison, il ne va rien se passer."
+ana8,¿por qué no te fuiste?,why didn't you go?,porque é que não foste?,Pourquoi tu n'y es pas allé ?
+random1,bonita mañana ¡he escuchado que el festival va a ser toda una maravilla!,"nice morning, i heard the festival is going to be a blast!","bom dia, ouvi dizer que o festival vai ser o máximo!","Bonjour, j'ai entendu dire que le festival allait être une vraie fête !"
+random2,"bueno, no hay festival pero parece que los fuegos artificiales aún están en pie.","well, there is no festival but it looks like the fireworks are still on.","bem, não há festa, mas parece que o fogo de artifício continua.","eh bien, il n'y a pas de festival, mais on dirait que les feux d'artifice sont toujours là."
+random3,mi familia debe estar esperándome en el puerto.,my family must be waiting for me at the port.,a minha família deve estar à minha espera no porto.,ma famille doit m'attendre au port.
+random 4,una noche inolvidable... por desgracia. ,an unforgettable night... unfortunately.,uma noite inesquecível... infelizmente.,une nuit inoubliable... malheureusement.
+aleatorio1,toda la gente del pueblo vecino vendrá al carnaval.,all the people from the neighboring village will come to the carnival.,todas as pessoas da aldeia vizinha virão para o carnaval.,tous les gens du village voisin viendront au carnaval.
+aleatorio2,¡pamplinas! el volcán ha estado dormido por 150 años.,bullshit! the volcano has been dormant for 150 years.,treta! o vulcão está adormecido há 150 anos.,conneries ! le volcan est en sommeil depuis 150 ans.
+aleatorio3,me preocupa la comunidad indígena que vive cerca al volcán. ,i worry about the indigenous community that lives near the volcano.,estou preocupado com a comunidade indígena que vive perto do vulcão.,je m'inquiète pour la communauté indigène qui vit près du volcan.
+aleatorio4,¿y ahora qué nos espera?,and now what awaits us?,e agora o que nos espera?,"et maintenant, qu'est-ce qui nous attend ?"
+roberto1,"Bienevenido a mi tienda, aqui puedes hacer efectivo tu ticket de botellas.","Welcome to my store, you can cash in your bottle ticket here.","Bem-vindos à minha loja, aqui podem trocar o vosso bilhete de garrafa.","Bienvenue dans ma boutique, vous pouvez échanger votre ticket de bouteilles ici"
+roberto11,"Bienevenido a mi tienda, vuelve cuando tengas tu ticket de botellas","Welcome to my store, I'm happy to see you again.","Bem-vindos à minha loja, voltem quando tiverem o vosso bilhete de garrafa","Bienvenue dans ma boutique, je suis heureux de vous revoir."
+roberto2,"Ese rumor ha espantado a todo el mundo, pero yo estoy aqui para ti.
+recuerda traer tu ticket de botellas.","That rumor has scared everyone, but I'm here for you.
+Remember to bring your bottle ticket.","Este boato assustou toda a gente, mas eu estou aqui para vocês.
+lembrem-se de trazer o vosso bilhete de garrafa.","Cette rumeur a effrayé tout le monde, mais je suis là pour vous.
+N’oubliez pas d’apporter votre ticket de bouteilles. "
+roberto21,"Ese rumor ha espantado a todo el mundo, espero que lo que sea que pase, no quiebre mis botellas.",That rumor has scared everyone; I hope whatever happens doesn't break my bottles.,"Esse rumor assustou toda a gente, espero que aconteça o que acontecer, não parta as minhas garrafas.","Cette rumeur a effrayé tout le monde ; j’espère que quoi qu’il arrive, cela ne cassera pas mes bouteilles."
+roberto3,"Buenas noches muchacho, deberias empacar, sin embargo aun puedes hacer efectivo tu ticket de botellas.","Good evening, lad. You should pack up, but you can still cash in your bottle ticket.","Boa noite, rapaz, é melhor fazeres as malas, mas ainda podes trocar o teu bilhete para a garrafa.","Bonsoir mon garçon. Tu devrais faire tes valises, mais tu peux encore échanger ton ticket de bouteilles."
+roberto31,"Buenas noches muchacho, espero verte en el barco.","Good evening, lad. I hope to see you on the ship.","Boa noite, rapaz, espero ver-te no barco.",Bonsoir mon garçon. J’espère te voir sur le bateau.
+opciones1,Modo de ventana,Window Mode,Modo de janela,Mode fenêtre
+opciones2,Pantalla completa,Full Screen,Ecrã inteiro,Plein écran
+opciones3,Ventana,Windowed,Janela,Fenêtre
+opciones4,Resolución de pantalla,Display Resolution,Resolução do ecrã,Résolution d'affichage
+opciones5,Límite de frecuencia de imagen,Frame Rate Limit,Limite da taxa de fotogramas,Limite de la fréquence d'images
+opciones6,Calidad preestablecida,Quality Preset,Qualidade predefinida,Préréglage de la qualité
+opciones7,Baja,Low,Baixa,Basse
+opciones8,Media,Medium,Média Média,Moyenne
+opciones9,Alta,High,Alta,Haute
+opciones10,Ultra,Ultra,Ultra,Ultra
+opciones11,Música,Music,Música,Musique
+opciones12,SFX,SFX,SFX,SFX
+txtquest1,De donde viene ese temblor?,Where does this tremor come from?,De onde é que vem este tremor?,D'où vient ce tremblement ?
+txtquest2,Busca el Ticket de Botella,Look for the Bottle Ticket,Procurar o bilhete da garrafa,Recherche d'un ticket de bouteille
+txtquest3,Conseguiste el Ticket de Botella,Got the Bottle Ticket,Recebeu o bilhete da garrafa,A obtenu un ticket de bouteille
+txtquest4,Recibiste Botella,Received Bottle,Recebeu a garrafa,A reçu un ticket de bouteille
+txtquest0,Lista de Eventos,List of Events,Lista de eventos,Liste des événements
+txtquest5,Recogiste el item llave,You picked up the key item,Recolheu o elemento-chave,Vous avez collecté l'élément clé
+quest_01,Habrá que encontrar una manera de restaurar la energía del capitán,I will have to find a way to restore the captain's energy.,Será necessário encontrar uma maneira de restaurar a energia do capitão.,Il faudra trouver un moyen de redonner de l'énergie au capitaine.
