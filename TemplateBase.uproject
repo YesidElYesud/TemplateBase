@@ -41,10 +41,6 @@
 		{
 			"Name": "PCGWaterInterop",
 			"Enabled": true
-		},
-		{
-			"Name": "PCGExtendedToolkit",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
