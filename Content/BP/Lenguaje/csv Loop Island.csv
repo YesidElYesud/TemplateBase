@@ -1,5 +1,5 @@
 Row Name,Español,Ingles,chino,Frances
-menu1,Inicio,Home,Página inicial,Accueilentose
+menu1,Inicio,Home,Página inicial,Accueiluis
 menu2,Salir,Exit,Sair,Quitter
 menu3,Pausa,Pause,Pausa,Pause
 menu4,Opciones,Options,Opções,Options
@@ -80,3 +80,9 @@ txtquest4,Recibiste Botella,Received Bottle,Recebeu a garrafa,A reçu un ticket 
 txtquest0,Lista de Eventos,List of Events,Lista de eventos,Liste des événements
 txtquest5,Recogiste el item llave,You picked up the key item,Recolheu o elemento-chave,Vous avez collecté l'élément clé
 quest_01,Habrá que encontrar una manera de restaurar la energía del capitán,I will have to find a way to restore the captain's energy.,Será necessário encontrar uma maneira de restaurar a energia do capitão.,Il faudra trouver un moyen de redonner de l'énergie au capitaine.
+mom1,"No te preocupes hijo, estos terremotos son comunes en la isla.","Don’t worry, son, these earthquakes are common on the island.","Não se preocupe, filho, esses terremotos são comuns na ilha.","Ne t’inquiète pas, mon fils, ces tremblements de terre sont fréquents sur l’île."
+mom2,Con el terremoto del amanecer y los rumores lo mejor es irnos en el primer barco que salga.,"With the dawn earthquake and the rumors, it’s best we leave on the first ship out.","Com o terremoto do amanhecer e os rumores, o melhor é irmos no primeiro barco que sair.","Avec le séisme de l’aube et les rumeurs, le mieux est de partir sur le premier bateau disponible."
+mom3,"Hijo no pierdas mucho tiempo, nos vemos en el barco.","Son, don’t waste too much time—we’ll see you on the ship.","Filho, não perca muito tempo—nos vemos no barco.","Fils, ne traîne pas trop—on se voit sur le bateau."
+mom4,"Hijo, es hora de irnos.","Son, it’s time to go.","Filho, é hora de ir.","Fils, il est temps de partir."
+housedoor,,,,
+txtquest6,Gente Salvada,People Saved,Pessoas salvas,Personnes sauvées

@@ -5,7 +5,7 @@ menu_owner = "DataTableUpdater"
 tool_menus = unreal.ToolMenus.get()
 owning_menu_name = "LevelEditor.LevelEditorToolBar.PlayToolBar"
 project_directory = unreal.SystemLibrary.get_project_directory()
-python_code_path = os.path.join(project_directory, 'Scripts', 'Update_datatable.py').replace("\\", "/")
+python_code_path = os.path.join(project_directory, 'Content','Python', 'Update_datatable.py').replace("\\", "/")
 
 @unreal.uclass()
 class DataTableToolbarEntry(unreal.ToolMenuEntryScript):

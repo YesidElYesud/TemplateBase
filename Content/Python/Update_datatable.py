@@ -14,8 +14,8 @@ csv_relative_path = 'Content/BP/Lenguaje/csv Loop Island.csv'
 CSV_SAVE_PATH = os.path.join(project_dir, csv_relative_path).replace('\\', '/')
 
 # Path to the DataTable asset in Content Browser (no file extension)
-DATA_TABLE_ASSET_PATH = '/Game/BP/Lenguaje/LenguajeDataTable'
-DATA_TABLE_NAME = 'LenguajeDataTable'
+DATA_TABLE_ASSET_PATH = '/Game/BP/Lenguaje/csv_Loop_Island_-_Hoja_1'
+DATA_TABLE_NAME = 'csv_Loop_Island_-_Hoja_1'
 ROW_STRUCT_PATH = '/Game/BP/Lenguaje/LenguajeStruct.LenguajeStruct'
 
 
