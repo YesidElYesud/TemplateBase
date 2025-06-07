@@ -8,7 +8,11 @@ menu6,"""E"" para interactuar","""E"" for interact",E para interagir,"""E"" pour
 menu7,"""E"" para dialogar","""E"" for dialog",E para diálogo,"""E"" pour dialogue"
 menu8,Continuar,Continuar,Continuar,Continuer
 menu9,Volver,Back,Voltar,Retour à
-npc_captain01,"Acabo de llegar a tierra y ya extraño a mi amor: el mar. Pero ha sido una travesía muy dura, estoy exhausto!","I have just arrived on land and I already miss my love: the sea. But it has been a very hard crossing, I am exhausted!","Acabei de aterrissar e já estou com saudades do meu amor: o mar. Mas foi uma travessia muito difícil, estou exausto!","Je viens d'atterrir et mon amour me manque déjà : la mer. Mais la traversée a été très dure, je suis épuisée !"
+npc_captain_default_1_1,Acabo de llegar a tierra y ya extraño a mi amor: el mar. ,"I have just arrived on land and I already miss my love: the sea. But it has been a very hard crossing, I am exhausted!","Acabei de aterrissar e já estou com saudades do meu amor: o mar. Mas foi uma travessia muito difícil, estou exausto!","Je viens d'atterrir et mon amour me manque déjà : la mer. Mais la traversée a été très dure, je suis épuisée !"
+npc_captain_default_1_2,"Pero ha sido una travesía muy dura, estoy exhausto!","But it has been a very hard journey, I am exhausted!","Mas tem sido uma jornada muito difícil, estou exausto!","Mais cela a été un voyage très dur, je suis épuisé !"
+npc_captain_default_2_1,"Requiero un café de este lugar, pero se les ha acabado el Guaraná. ","I need a coffee from this place, but they're out of Guaraná.","Preciso de um café deste lugar, mas eles estão sem guaraná.","J'ai besoin d'un café de cet endroit, mais ils n'ont plus de guarana."
+npc_captain_default_2_2,Me enferma tener que descansar en tierra!!. ,It makes me sick to have to rest on land!!,Fico doente de ter que descansar em terra firme!!,Ça me rend malade de devoir me reposer sur terre !
+npc_captain_default_2_3,"Ahh, como deseo volver a la mar....","Ahh, how I wish to return to the sea....","Ahh, como eu queria voltar para o mar...","Ahh, comme j'aimerais retourner à la mer...."
 capitan2,Como esta?,How are you?,Como estás?,Comment allez-vous ?
 capitan3,Buenas noches Joven,Good evening Young man,Boa noite Jovem,Bonsoir Jeune homme
 testnpc1,Estoy perdido,I'm lost,Estou perdido,Je suis perdu
@@ -79,7 +83,15 @@ txtquest3,Conseguiste el Ticket de Botella,Got the Bottle Ticket,Recebeu o bilhe
 txtquest4,Recibiste Botella,Received Bottle,Recebeu a garrafa,A reçu un ticket de bouteille
 txtquest0,Lista de Eventos,List of Events,Lista de eventos,Liste des événements
 txtquest5,Recogiste el item llave,You picked up the key item,Recolheu o elemento-chave,Vous avez collecté l'élément clé
-quest_01,Habrá que encontrar una manera de restaurar la energía del capitán,I will have to find a way to restore the captain's energy.,Será necessário encontrar uma maneira de restaurar a energia do capitão.,Il faudra trouver un moyen de redonner de l'énergie au capitaine.
+quest_01_1,Habrá que encontrar una manera de restaurar la energía del capitán,I will have to find a way to restore the captain's energy.,Será necessário encontrar uma maneira de restaurar a energia do capitão.,Il faudra trouver un moyen de redonner de l'énergie au capitaine.
+quest_01_2,"Un café de brisa marina será suficiente para restaurar la energía del capitán.
+Quién tendrá árboles de guaraná?
+","A coffee of sea breeze will be enough to restore the captain's energy.
+Who will have guarana trees?
+","Um café com brisa do mar bastará para repor as energias do capitão.
+Quem terá guaranás?
+","Un café de brise marine suffira à redonner de l'énergie au capitaine.
+Qui aura des guaranas ?"
 mom1,"No te preocupes hijo, estos terremotos son comunes en la isla.","Don’t worry, son, these earthquakes are common on the island.","Não se preocupe, filho, esses terremotos são comuns na ilha.","Ne t’inquiète pas, mon fils, ces tremblements de terre sont fréquents sur l’île."
 mom2,Con el terremoto del amanecer y los rumores lo mejor es irnos en el primer barco que salga.,"With the dawn earthquake and the rumors, it’s best we leave on the first ship out.","Com o terremoto do amanhecer e os rumores, o melhor é irmos no primeiro barco que sair.","Avec le séisme de l’aube et les rumeurs, le mieux est de partir sur le premier bateau disponible."
 mom3,"Hijo no pierdas mucho tiempo, nos vemos en el barco.","Son, don’t waste too much time—we’ll see you on the ship.","Filho, não perca muito tempo—nos vemos no barco.","Fils, ne traîne pas trop—on se voit sur le bateau."
@@ -94,3 +106,4 @@ npc_captain_inkeeper1,Se nos han acabado el extracto de guaraná. No podemos pre
 npc_captain_inkeeper2,Pero como es posible? Tendré que pasar una noche en tierra? ,But how is that possible? Will I have to spend a night on land?,Mas como isso é possível? Terei que passar uma noite em terra firme?,Mais comment est-ce possible ? Devrai-je passer une nuit à terre ?
 npc_captain_inkeeper3,Tenemos habitaciones disponibles,We have rooms available,Temos quartos disponíveis,Nous avons des chambres disponibles
 npc_captain_inkeeper4,Está bien. deme una habitación,Okay. Give me a room.,Certo. Me dê um quarto.,Ok. Donne-moi une chambre.
+menu10,Por allá no es el camino,That's not the way,Não é assim,Ce n'est pas comme ça
