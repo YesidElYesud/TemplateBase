@@ -86,3 +86,11 @@ mom3,"Hijo no pierdas mucho tiempo, nos vemos en el barco.","Son, don’t waste 
 mom4,"Hijo, es hora de irnos.","Son, it’s time to go.","Filho, é hora de ir.","Fils, il est temps de partir."
 housedoor,,,,
 txtquest6,Gente Salvada,People Saved,Pessoas salvas,Personnes sauvées
+npc_innkeeper_default1,Bienvenido a la posada brisa marina.,Welcome to the Sea Breeze Inn.,Bem-vindo ao Sea Breeze Inn.,Bienvenue au Sea Breeze Inn.
+npc_innkeeper_default2,No existe otro lugar en la isla mejor que este para los viajeros,There is no other place on the island better than this for travelers.,Não há outro lugar na ilha melhor que este para os viajantes.,Il n’y a pas d’autre endroit sur l’île meilleur que celui-ci pour les voyageurs.
+npc_innkeeper_default3,También realizamos bebidas energéticas,We also make energy drinks,Também fabricamos bebidas energéticas,Nous fabriquons également des boissons énergisantes
+npc_innkeeper_default4,Aunque en este momento nos hemos quedado sin ingredientes,Although at this point we have run out of ingredients,Embora neste ponto tenhamos ficado sem ingredientes,Bien qu'à ce stade nous soyons à court d'ingrédients
+npc_captain_inkeeper1,Se nos han acabado el extracto de guaraná. No podemos preparar nuestro café especial levantamuertos,"We're out of guarana extract. We can't make our special ""raise the dead"" coffee.","Estamos sem extrato de guaraná. Não podemos fazer nosso café especial ""ressuscita os mortos"".",Nous n'avons plus d'extrait de guarana. Impossible de préparer notre café spécial « résurrection des morts ».
+npc_captain_inkeeper2,Pero como es posible? Tendré que pasar una noche en tierra? ,But how is that possible? Will I have to spend a night on land?,Mas como isso é possível? Terei que passar uma noite em terra firme?,Mais comment est-ce possible ? Devrai-je passer une nuit à terre ?
+npc_captain_inkeeper3,Tenemos habitaciones disponibles,We have rooms available,Temos quartos disponíveis,Nous avons des chambres disponibles
+npc_captain_inkeeper4,Está bien. deme una habitación,Okay. Give me a room.,Certo. Me dê um quarto.,Ok. Donne-moi une chambre.
