@@ -150,3 +150,6 @@ npc_botany_default_3_7,Estoy encantada de ayudar a quien sea que lo necesite,I a
 npc_botany_default_3_8,"Apúrate, lleva el guaraná al posadero","Hurry, take the guarana to the innkeeper","Depressa, leve o guaraná ao estalajadeiro","Dépêchez-vous, apportez le guarana à l'aubergiste"
 quest_02_new,Tengo vía libre para tomar guaraná de los arbustos,I have free rein to take guarana from the bushes,Tenho liberdade para tirar guaraná dos arbustos,J'ai carte blanche pour cueillir du guarana dans les buissons
 tree_guarana_locked,Un árbusto con frutos hermosos. No tengo permiso de tomarlos,A bush with beautiful fruits. I'm not allowed to take them.,Um arbusto com frutos lindos. Não tenho permissão para pegá-los.,Un buisson aux beaux fruits. Je n'ai pas le droit de les cueillir.
+npc_captain_success_1_1,Ahoy!! Eso si que es un gran café.,Ahoy!! Now that's some great coffee.,Ahoy!! Isso sim é que é um café ótimo.,"Ohé ! Ça, c'est du bon café."
+npc_captain_success_1_2,Tripilación!! Nos marchamos al anochecer!,Crew!! We're leaving at dusk!,Tripulação!! Partimos ao anoitecer!,L'équipage !! On part au crépuscule !
+quest_01_success,Ahora el barco puede partir!,Now the ship can sail!,Agora o navio pode navegar!,Maintenant le bateau peut naviguer !
