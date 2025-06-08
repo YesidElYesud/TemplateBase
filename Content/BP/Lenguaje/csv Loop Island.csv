@@ -1,7 +1,4 @@
 Row Name,Español,Ingles,chino,Frances
-abuelo1,,,,
-abuelo2,,,,
-abuelo3,,,,
 aleatorio1,toda la gente del pueblo vecino vendrá al carnaval.,all the people from the neighboring village will come to the carnival.,todas as pessoas da aldeia vizinha virão para o carnaval.,tous les gens du village voisin viendront au carnaval.
 aleatorio2,¡pamplinas! el volcán ha estado dormido por 150 años.,bullshit! the volcano has been dormant for 150 years.,treta! o vulcão está adormecido há 150 anos.,conneries ! le volcan est en sommeil depuis 150 ans.
 aleatorio3,me preocupa la comunidad indígena que vive cerca al volcán. ,i worry about the indigenous community that lives near the volcano.,estou preocupado com a comunidade indígena que vive perto do vulcão.,je m'inquiète pour la communauté indigène qui vit près du volcan.
@@ -74,7 +71,7 @@ npc_innkeeper_default2,No existe otro lugar en la isla mejor que este para los v
 npc_innkeeper_default3,También realizamos bebidas energéticas,We also make energy drinks,Também fabricamos bebidas energéticas,Nous fabriquons également des boissons énergisantes
 npc_innkeeper_default4,Aunque en este momento nos hemos quedado sin ingredientes,Although at this point we have run out of ingredients,Embora neste ponto tenhamos ficado sem ingredientes,Bien qu'à ce stade nous soyons à court d'ingrédients
 npc_policeman_default_1_1,Los habitantes se encuentran realizando los preparativos del carnaval,The inhabitants are making preparations for the carnival.,Os moradores estão se preparando para o carnaval.,Les habitants préparent le carnaval.
-npc_policeman_default_1_2,El acceso al pueblo está cerrado hasta el mediodía,Access to the village is closed until noon.,O acesso à vila fica fechado até o meio-dia.,L'accès au village est fermé jusqu'à midi.
+npc_policeman_default_1_2,El acceso al pueblo está cerrado!,Access to the village is closed!,O acesso à vila está fechado!,L'accès au village est fermé !
 npc_policeman_default_2_1,"El carnaval se canceló, es una pena!","Carnival was cancelled, it's a shame!","O Carnaval foi cancelado, é uma pena!","Le carnaval a été annulé, c'est une honte !"
 opciones1,Modo de ventana,Window Mode,Modo de janela,Mode fenêtre
 opciones10,Ultra,Ultra,Ultra,Ultra
