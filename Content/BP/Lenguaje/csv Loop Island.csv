@@ -1,4 +1,7 @@
 Row Name,Español,Ingles,chino,Frances
+abuelo1,,,,
+abuelo2,,,,
+abuelo3,,,,
 aleatorio1,toda la gente del pueblo vecino vendrá al carnaval.,all the people from the neighboring village will come to the carnival.,todas as pessoas da aldeia vizinha virão para o carnaval.,tous les gens du village voisin viendront au carnaval.
 aleatorio2,¡pamplinas! el volcán ha estado dormido por 150 años.,bullshit! the volcano has been dormant for 150 years.,treta! o vulcão está adormecido há 150 anos.,conneries ! le volcan est en sommeil depuis 150 ans.
 aleatorio3,me preocupa la comunidad indígena que vive cerca al volcán. ,i worry about the indigenous community that lives near the volcano.,estou preocupado com a comunidade indígena que vive perto do vulcão.,je m'inquiète pour la communauté indigène qui vit près du volcan.
@@ -16,6 +19,15 @@ andres2,¿ya escuchaste? parece que la gente cree cualquier cosa.,have you heard
 andres3,"todo lo que construimos, en ruinas... ¿que nos preparará el destino?","everything we built, in ruins.... what will fate prepare for us?","tudo o que construímos, em ruínas... o que é que o destino nos vai preparar?","tout ce que nous avons construit, en ruines... qu'est-ce que le destin nous prépare ?"
 capitan2,Como esta?,How are you?,Como estás?,Comment allez-vous ?
 capitan3,Buenas noches Joven,Good evening Young man,Boa noite Jovem,Bonsoir Jeune homme
+chiste1,Te voy a contar un chiste,I'm going to tell you a joke,Vou te contar uma piada,Je vais te raconter une blague
+chiste2,Espero te guste,I hope you like it,Espero que você goste,J'espère que ça vous plaira
+chiste3,...,...,...,...
+chiste4,¿Qué hace una vaca pensando? ,What is a cow doing thinking?,O que uma vaca está fazendo pensando?,À quoi pense une vache ?
+chiste5,Leche concentrada,Concentrated milk,Leite concentrado,Lait concentré
+chiste6,...,...,...,...
+chiste7,No es mal chiste,It's not a bad joke.,Não é uma piada ruim.,Ce n'est pas une mauvaise blague.
+chiste8,Toma este dulce,Take this candy,Pegue esse doce,Prends ce bonbon
+chiste9,"Ya te di el dulce, pierdete","I already gave you the candy, get lost","Eu já te dei o doce, vai embora","Je t'ai déjà donné les bonbons, va-t'en"
 gunter1,"escucha esto, aún no sé cómo terminarlo.","listen to this, i still don't know how to finish it.","ouçam isto, ainda não sei como acabar.","écoutez ça, je ne sais toujours pas comment le finir."
 gunter2,¿qué tal? ¡con esta canción el pueblo va a sentir una erupción de emociones!,how about it? with this song the people are going to feel an eruption of emotions!,que tal? com esta canção as pessoas vão sentir uma erupção de emoções!,"qu'en pensez-vous ? avec cette chanson, les gens vont ressentir une éruption d'émotions !"
 gunter3,"me demoré una semana en crear esa pieza, y ahora todo el mundo sólo habla del volcán.","it took me a week to create that piece, and now everyone is only talking about the volcano.","levei uma semana a criar esta peça, e agora toda a gente só fala do vulcão.","il m'a fallu une semaine pour créer ce morceau, et maintenant tout le monde ne parle que du volcan."
@@ -61,6 +73,9 @@ npc_innkeeper_default1,Bienvenido a la posada brisa marina.,Welcome to the Sea B
 npc_innkeeper_default2,No existe otro lugar en la isla mejor que este para los viajeros,There is no other place on the island better than this for travelers.,Não há outro lugar na ilha melhor que este para os viajantes.,Il n’y a pas d’autre endroit sur l’île meilleur que celui-ci pour les voyageurs.
 npc_innkeeper_default3,También realizamos bebidas energéticas,We also make energy drinks,Também fabricamos bebidas energéticas,Nous fabriquons également des boissons énergisantes
 npc_innkeeper_default4,Aunque en este momento nos hemos quedado sin ingredientes,Although at this point we have run out of ingredients,Embora neste ponto tenhamos ficado sem ingredientes,Bien qu'à ce stade nous soyons à court d'ingrédients
+npc_policeman_default_1_1,Los habitantes se encuentran realizando los preparativos del carnaval,The inhabitants are making preparations for the carnival.,Os moradores estão se preparando para o carnaval.,Les habitants préparent le carnaval.
+npc_policeman_default_1_2,El acceso al pueblo está cerrado hasta el mediodía,Access to the village is closed until noon.,O acesso à vila fica fechado até o meio-dia.,L'accès au village est fermé jusqu'à midi.
+npc_policeman_default_2_1,"El carnaval se canceló, es una pena!","Carnival was cancelled, it's a shame!","O Carnaval foi cancelado, é uma pena!","Le carnaval a été annulé, c'est une honte !"
 opciones1,Modo de ventana,Window Mode,Modo de janela,Mode fenêtre
 opciones10,Ultra,Ultra,Ultra,Ultra
 opciones11,Música,Music,Música,Musique
@@ -116,21 +131,14 @@ txtquest3,Conseguiste el Ticket de Botella,Got the Bottle Ticket,Recebeu o bilhe
 txtquest4,Recibiste Botella,Received Bottle,Recebeu a garrafa,A reçu un ticket de bouteille
 txtquest5,Recogiste el item llave,You picked up the key item,Recolheu o elemento-chave,Vous avez collecté l'élément clé
 txtquest6,Gente Salvada,People Saved,Pessoas salvas,Personnes sauvées
+txtquest7,Has recibido Caramelo,You have received Candy,Você recebeu Candy,Vous avez reçu des bonbons
+txtquest8,Obtuviste Reloj,You got Watch,Você tem relógio,Tu as une montre
 yesid1,"hola, te he visto correr toda la mañana.","hi, i've seen you running all morning.","olá, vi-te a correr toda a manhã.","Bonjour, je t'ai vu courir toute la matinée."
 yesid2,¿has escuchado los rumores? será mejor prepararse.,have you heard the rumors? better get ready.,ouviste os rumores? é melhor preparares-te.,as-tu entendu les rumeurs ? tu ferais mieux de te préparer.
 yesid3,"ha sido un día triste, mucha gente quedó atrás.","it's been a sad day, many people left behind.","foi um dia triste, muitas pessoas ficaram para trás.","c'est une triste journée, beaucoup de gens sont restés derrière."
 yesid4,"ha sido un dia triste, gracias por ayudar.","it's been a sad day, thanks for helping.","foi um dia triste, obrigado por ajudares.","c'est une triste journée, merci d'avoir aidé."
 yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a hard day, thanks to you many have been saved.","foi um dia difícil, graças a ti muitos foram salvos.","c'est une dure journée, grâce à toi beaucoup ont été sauvés."
-npc_policeman_default_1_1,Los habitantes se encuentran realizando los preparativos del carnaval,The inhabitants are making preparations for the carnival.,Os moradores estão se preparando para o carnaval.,Les habitants préparent le carnaval.
-npc_policeman_default_1_2,El acceso al pueblo está cerrado hasta el mediodía,Access to the village is closed until noon.,O acesso à vila fica fechado até o meio-dia.,L'accès au village est fermé jusqu'à midi.
-npc_policeman_default_2_1,"El carnaval se canceló, es una pena!","Carnival was cancelled, it's a shame!","O Carnaval foi cancelado, é uma pena!","Le carnaval a été annulé, c'est une honte !"
-chiste1,Te voy a contar un chiste,I'm going to tell you a joke,Vou te contar uma piada,Je vais te raconter une blague
-chiste2,Espero te guste,I hope you like it,Espero que você goste,J'espère que ça vous plaira
-chiste3,...,...,...,...
-chiste4,¿Qué hace una vaca pensando? ,What is a cow doing thinking?,O que uma vaca está fazendo pensando?,À quoi pense une vache ?
-chiste5,Leche concentrada,Concentrated milk,Leite concentrado,Lait concentré
-chiste6,...,...,...,...
-chiste7,No es mal chiste,It's not a bad joke.,Não é uma piada ruim.,Ce n'est pas une mauvaise blague.
-chiste8,Toma este dulce,Take this candy,Pegue esse doce,Prends ce bonbon
-chiste9,"Ya te di el dulce, pierdete","I already gave you the candy, get lost","Eu já te dei o doce, vai embora","Je t'ai déjà donné les bonbons, va-t'en"
-txtquest7,Has recibido Caramelo,You have received Candy,Você recebeu Candy,Vous avez reçu des bonbons
+granpa1,"El temblor casi me deja afuera, te traigo este reloj","The earthquake almost knocked me out, I brought you this watch","O terremoto quase me derrubou, eu trouxe esse relógio para você","Le tremblement de terre m'a presque assommé, je t'ai apporté cette montre"
+granpa2,Ha estado con nosotros por generaciones.,It has been with us for generations.,Ela está conosco há gerações.,Cela fait des générations que nous l’avons.
+granpa3,"A pesar de los carnavales, hay algo que no me da buena espina hoy.","Despite the carnival, there's something that doesn't feel right to me today.","Apesar do carnaval, tem algo que não me parece certo hoje.","Malgré le carnaval, il y a quelque chose qui ne va pas pour moi aujourd'hui."
+granpa4,Sigue tu camino,Follow your path,Siga seu caminho,Suivez votre chemin
