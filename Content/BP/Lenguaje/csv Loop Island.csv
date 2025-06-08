@@ -25,6 +25,10 @@ chiste6,...,...,...,...
 chiste7,No es mal chiste,It's not a bad joke.,Não é uma piada ruim.,Ce n'est pas une mauvaise blague.
 chiste8,Toma este dulce,Take this candy,Pegue esse doce,Prends ce bonbon
 chiste9,"Ya te di el dulce, pierdete","I already gave you the candy, get lost","Eu já te dei o doce, vai embora","Je t'ai déjà donné les bonbons, va-t'en"
+granpa1,"El temblor casi me deja afuera, te traigo este reloj","The earthquake almost knocked me out, I brought you this watch","O terremoto quase me derrubou, eu trouxe esse relógio para você","Le tremblement de terre m'a presque assommé, je t'ai apporté cette montre"
+granpa2,Ha estado con nosotros por generaciones.,It has been with us for generations.,Ela está conosco há gerações.,Cela fait des générations que nous l’avons.
+granpa3,"A pesar de los carnavales, hay algo que no me da buena espina hoy.","Despite the carnival, there's something that doesn't feel right to me today.","Apesar do carnaval, tem algo que não me parece certo hoje.","Malgré le carnaval, il y a quelque chose qui ne va pas pour moi aujourd'hui."
+granpa4,Continúa tu camino,Continue on your way,Continue seu caminho,Continuez votre chemin
 gunter1,"escucha esto, aún no sé cómo terminarlo.","listen to this, i still don't know how to finish it.","ouçam isto, ainda não sei como acabar.","écoutez ça, je ne sais toujours pas comment le finir."
 gunter2,¿qué tal? ¡con esta canción el pueblo va a sentir una erupción de emociones!,how about it? with this song the people are going to feel an eruption of emotions!,que tal? com esta canção as pessoas vão sentir uma erupção de emoções!,"qu'en pensez-vous ? avec cette chanson, les gens vont ressentir une éruption d'émotions !"
 gunter3,"me demoré una semana en crear esa pieza, y ahora todo el mundo sólo habla del volcán.","it took me a week to create that piece, and now everyone is only talking about the volcano.","levei uma semana a criar esta peça, e agora toda a gente só fala do vulcão.","il m'a fallu une semaine pour créer ce morceau, et maintenant tout le monde ne parle que du volcan."
@@ -37,6 +41,7 @@ juan2,no puedo creer que por un rumor hayan cancelado mi tiquete.,i can't believ
 juan3,"si me hubiese ido ayer, mi madre se habría quedado en el pueblo esperándome. ","if i had left yesterday, my mother would have stayed in town waiting for me.","se tivesse partido ontem, a minha mãe teria ficado na aldeia à minha espera.","si j'étais parti hier, ma mère serait restée au village pour m'attendre."
 menu1,Inicio,Home,Página inicial,Accueil
 menu10,Por allá no es el camino al puerto marino,That way is not the way to the seaport,Esse caminho não é o caminho para o porto,Ce chemin n'est pas celui qui mène au port maritime
+menu11,Reintentar,Retry,Tentar novamente,Réessayer
 menu2,Salir,Exit,Sair,Quitter
 menu3,Pausa,Pause,Pausa,Pause
 menu4,Opciones,Options,Opções,Options
@@ -52,6 +57,14 @@ mom4,"Hijo, es hora de irnos.","Son, it’s time to go.","Filho, é hora de ir."
 npc_botany_default_1_1,"Hola! Ayuda! . Tras el temblor, la tubería del sistema de riego se ha roto. ","Hello! Help! . After the earthquake, the irrigation system's pipe broke.","Olá! Socorro! . Após o terremoto, o cano do sistema de irrigação quebrou.","Bonjour ! Au secours ! Après le tremblement de terre, le tuyau du système d'irrigation s'est rompu."
 npc_botany_default_1_2,Mis plantas morirán si no lo reparamos pronto.,My plants will die if we don't fix it soon.,Minhas plantas morrerão se não consertarmos logo.,Mes plantes mourront si nous ne réparons pas ce problème bientôt.
 npc_botany_default_2_1,Me entristece pensar que no podré regalar mas frutos a todos en el pueblo!,It saddens me to think that I won't be able to give more fruit to everyone in town!,Fico triste em pensar que não poderei dar mais frutas para todos na cidade!,Cela me rend triste de penser que je ne pourrai pas donner plus de fruits à tout le monde en ville !
+npc_botany_default_3_1,Estoy muy preocupada por los constantes temblores,I am very worried about the constant tremors.,Estou muito preocupado com os tremores constantes.,Je suis très inquiet à cause des tremblements constants.
+npc_botany_default_3_2,Se rumorea que el volcán hará erupción,It is rumored that the volcano will erupt.,Há rumores de que o vulcão entrará em erupção.,La rumeur court que le volcan va entrer en éruption.
+npc_botany_default_3_3,¿Qué dices? ¿Que ha llegado un barco al puerto?,What are you saying? That a ship has arrived at the port?,O que você está dizendo? Que um navio chegou ao porto?,Que dites-vous ? Qu'un navire est arrivé au port ?
+npc_botany_default_3_4,¿ Y que el capitán del navío está muy cansado como para navegar?,And the captain of the ship is too tired to sail?,E o capitão do navio está cansado demais para navegar?,Et le capitaine du navire est trop fatigué pour naviguer ?
+npc_botany_default_3_5,¿Y que un café especial de guaraná podrá resolverlo?,And a special guarana coffee can solve it?,E um café especial com guaraná pode resolver?,Et un café spécial au guarana peut résoudre ce problème ?
+npc_botany_default_3_6,No hay problema!! Toma un poco de guaraná de cualquiera de mis arbustos,No problem! Take some guarana from any of my bushes.,Sem problemas! Pegue um pouco de guaraná de qualquer um dos meus arbustos.,Pas de problème ! Prenez du guarana dans n'importe lequel de mes buissons.
+npc_botany_default_3_7,Estoy encantada de ayudar a quien sea que lo necesite,I am happy to help anyone who needs it.,Ficarei feliz em ajudar quem precisar.,Je suis heureux d'aider quiconque en a besoin.
+npc_botany_default_3_8,"Apúrate, lleva el guaraná al posadero","Hurry, take the guarana to the innkeeper","Depressa, leve o guaraná ao estalajadeiro","Dépêchez-vous, apportez le guarana à l'aubergiste"
 npc_botany_success_1_1,Me ha dicho el Fitter que tu has ido a buscarlo. Estoy muy agradecida.,The fitter told me you went looking for him. I'm very grateful.,O montador me disse que você foi procurá-lo. Sou muito grato.,Le monteur m'a dit que vous étiez allé le chercher. Je vous en suis très reconnaissant.
 npc_botany_success_1_2,"Solucionada la crisis, tienes permiso de tomar cualquier fruto de mi jardín. ","Once the crisis is over, you are allowed to take any fruit from my garden.","Quando a crise acabar, você poderá pegar qualquer fruta do meu jardim.","Une fois la crise terminée, vous serez autorisé à prendre tous les fruits de mon jardin."
 npc_botany_success_1_3,"Sólo asegúrate de tomar los frutos maduros, eh?","Just make sure you pick the ripe fruit, eh?","Só não se esqueça de escolher a fruta madura, ok?","Assurez-vous simplement de cueillir les fruits mûrs, hein ?"
@@ -60,11 +73,13 @@ npc_captain_default_1_2,"Pero ha sido una travesía muy dura, estoy exhausto!","
 npc_captain_default_2_1,"Requiero un café de este lugar, pero se les ha acabado el Guaraná. ","I need a coffee from this place, but they're out of Guaraná.","Preciso de um café deste lugar, mas eles estão sem guaraná.","J'ai besoin d'un café de cet endroit, mais ils n'ont plus de guarana."
 npc_captain_default_2_2,Me enferma tener que descansar en tierra!!. ,It makes me sick to have to rest on land!!,Fico doente de ter que descansar em terra firme!!,Ça me rend malade de devoir me reposer sur terre !!
 npc_captain_default_2_3,"Ahh, como deseo volver a la mar....","Ahh, how I wish to return to the sea....","Ahh, como eu queria voltar para o mar...","Ahh, comme j'aimerais retourner à la mer...."
-npc_inkeeper_default_2_1,Se nos han acabado el extracto de guaraná. ,We've run out of guarana extract.,Ficamos sem extrato de guaraná.,Nous n'avons plus d'extrait de guarana.
-npc_inkeeper_default_2_2,No podemos preparar nuestro café especial levantamuertos,We can't prepare our special dead-raising coffee,Não podemos preparar nosso café especial de fermentação morta,Nous ne pouvons pas préparer notre café spécial qui fait lever les morts
 npc_captain_inkeeper2,Pero como es posible? Tendré que pasar una noche en tierra? ,But how is that possible? Will I have to spend a night on land?,Mas como isso é possível? Terei que passar uma noite em terra firme?,Mais comment est-ce possible ? Devrai-je passer une nuit à terre ?
 npc_captain_inkeeper3,Tenemos habitaciones disponibles,We have rooms available,Temos quartos disponíveis,Nous avons des chambres disponibles
 npc_captain_inkeeper4,Está bien. deme una habitación,Okay. Give me a room.,Certo. Me dê um quarto.,Ok. Donne-moi une chambre.
+npc_captain_success_1_1,Ahoy!! Eso si que es un gran café.,Ahoy!! Now that's some great coffee.,Ahoy!! Isso sim é que é um café ótimo.,"Ohé ! Ça, c'est du bon café."
+npc_captain_success_1_2,Tripilación!! Nos marchamos al anochecer!,Crew!! We're leaving at dusk!,Tripulação!! Partimos ao anoitecer!,L'équipage !! On part au crépuscule !
+npc_inkeeper_default_2_1,Se nos han acabado el extracto de guaraná. ,We've run out of guarana extract.,Ficamos sem extrato de guaraná.,Nous n'avons plus d'extrait de guarana.
+npc_inkeeper_default_2_2,No podemos preparar nuestro café especial levantamuertos,We can't prepare our special dead-raising coffee,Não podemos preparar nosso café especial de fermentação morta,Nous ne pouvons pas préparer notre café spécial qui fait lever les morts
 npc_inkeeper_success_1_1,"Oh eso es Guaraná? Dámelo, así podré preparar café para el capitán!","Oh, is that Guaraná? Give it to me, so I can make coffee for the captain!","Ah, é guaraná? Me dá, que eu faço café para o capitão!","Oh, c'est du guarana ? Donne-le-moi, que je fasse du café pour le capitaine !"
 npc_inkeeper_success_1_2,Ya está listo! Toma,It's ready! Take it,Está pronto! Pegue!,C'est prêt ! Prenez-le
 npc_innkeeper_default1,Bienvenido a la posada brisa marina.,Welcome to the Sea Breeze Inn.,Bem-vindo ao Sea Breeze Inn.,Bienvenue au Sea Breeze Inn.
@@ -96,11 +111,13 @@ Quem terá guaranás?
 ","Un café de brise marine suffira à redonner de l'énergie au capitaine.
 Qui aura des guaranas ?"
 quest_01_3,Café de Brisa Marina! Huele delicioso. Tengo que entregarselo al capitán!,Sea Breeze Coffee! It smells delicious. I have to give it to the captain!,Café Brisa do Mar! Cheira uma delícia. Tenho que entregá-lo ao capitão!,Café Brise de Mer ! Ça sent bon. Je dois le donner au capitaine !
+quest_01_success,Ahora el barco puede partir!,Now the ship can sail!,Agora o navio pode navegar!,Maintenant le bateau peut naviguer !
 quest_02_1,"¡Puedo obtener el guaraná si reparo el sistema de riego!
  ¿Dónde habrá un experto en reparaciones de tuberías?","I can get guarana if I repair the irrigation system!
 Where can I find a pipe repair expert?","Posso obter guaraná se consertar o sistema de irrigação!
 Onde posso encontrar um especialista em conserto de encanamentos?","Je peux obtenir du guarana si je répare mon système d'irrigation !
 Où puis-je trouver un expert en réparation de canalisations ?"
+quest_02_new,Tengo vía libre para tomar guaraná de los arbustos,I have free rein to take guarana from the bushes,Tenho liberdade para tirar guaraná dos arbustos,J'ai carte blanche pour cueillir du guarana dans les buissons
 random 4,una noche inolvidable... por desgracia. ,an unforgettable night... unfortunately.,uma noite inesquecível... infelizmente.,une nuit inoubliable... malheureusement.
 random1,bonita mañana ¡he escuchado que el festival va a ser toda una maravilla!,"nice morning, i heard the festival is going to be a blast!","bom dia, ouvi dizer que o festival vai ser o máximo!","Bonjour, j'ai entendu dire que le festival allait être une vraie fête !"
 random2,"bueno, no hay festival pero parece que los fuegos artificiales aún están en pie.","well, there is no festival but it looks like the fireworks are still on.","bem, não há festa, mas parece que o fogo de artifício continua.","eh bien, il n'y a pas de festival, mais on dirait que les feux d'artifice sont toujours là."
@@ -122,6 +139,7 @@ sergio4,no todos los días se ve algo así... un día libre de trabajo.,it's not
 testnpc1,Estoy perdido,I'm lost,Estou perdido,Je suis perdu
 testnpc2,Ayudame a salir de aqui!,Help me get out of here!,Ajuda-me a sair daqui!,Aidez-moi à sortir d'ici !
 testnpc3,Gracias por traerlo,Thank you for bringing it,Obrigado por o trazeres,Merci de l'avoir apporté
+tree_guarana_locked,Un árbusto con frutos hermosos. No tengo permiso de tomarlos,A bush with beautiful fruits. I'm not allowed to take them.,Um arbusto com frutos lindos. Não tenho permissão para pegá-los.,Un buisson aux beaux fruits. Je n'ai pas le droit de les cueillir.
 txtquest0,Lista de Eventos,List of Events,Lista de eventos,Liste des événements
 txtquest1,De donde viene ese temblor?,Where does this tremor come from?,De onde é que vem este tremor?,D'où vient ce tremblement ?
 txtquest2,Busca el Ticket de Botella,Look for the Bottle Ticket,Procurar o bilhete da garrafa,Recherche d'un ticket de bouteille
@@ -136,20 +154,3 @@ yesid2,¿has escuchado los rumores? será mejor prepararse.,have you heard the r
 yesid3,"ha sido un día triste, mucha gente quedó atrás.","it's been a sad day, many people left behind.","foi um dia triste, muitas pessoas ficaram para trás.","c'est une triste journée, beaucoup de gens sont restés derrière."
 yesid4,"ha sido un dia triste, gracias por ayudar.","it's been a sad day, thanks for helping.","foi um dia triste, obrigado por ajudares.","c'est une triste journée, merci d'avoir aidé."
 yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a hard day, thanks to you many have been saved.","foi um dia difícil, graças a ti muitos foram salvos.","c'est une dure journée, grâce à toi beaucoup ont été sauvés."
-granpa1,"El temblor casi me deja afuera, te traigo este reloj","The earthquake almost knocked me out, I brought you this watch","O terremoto quase me derrubou, eu trouxe esse relógio para você","Le tremblement de terre m'a presque assommé, je t'ai apporté cette montre"
-granpa2,Ha estado con nosotros por generaciones.,It has been with us for generations.,Ela está conosco há gerações.,Cela fait des générations que nous l’avons.
-granpa3,"A pesar de los carnavales, hay algo que no me da buena espina hoy.","Despite the carnival, there's something that doesn't feel right to me today.","Apesar do carnaval, tem algo que não me parece certo hoje.","Malgré le carnaval, il y a quelque chose qui ne va pas pour moi aujourd'hui."
-granpa4,Continúa tu camino,Continue on your way,Continue seu caminho,Continuez votre chemin
-npc_botany_default_3_1,Estoy muy preocupada por los constantes temblores,I am very worried about the constant tremors.,Estou muito preocupado com os tremores constantes.,Je suis très inquiet à cause des tremblements constants.
-npc_botany_default_3_2,Se rumorea que el volcán hará erupción,It is rumored that the volcano will erupt.,Há rumores de que o vulcão entrará em erupção.,La rumeur court que le volcan va entrer en éruption.
-npc_botany_default_3_3,¿Qué dices? ¿Que ha llegado un barco al puerto?,What are you saying? That a ship has arrived at the port?,O que você está dizendo? Que um navio chegou ao porto?,Que dites-vous ? Qu'un navire est arrivé au port ?
-npc_botany_default_3_4,¿ Y que el capitán del navío está muy cansado como para navegar?,And the captain of the ship is too tired to sail?,E o capitão do navio está cansado demais para navegar?,Et le capitaine du navire est trop fatigué pour naviguer ?
-npc_botany_default_3_5,¿Y que un café especial de guaraná podrá resolverlo?,And a special guarana coffee can solve it?,E um café especial com guaraná pode resolver?,Et un café spécial au guarana peut résoudre ce problème ?
-npc_botany_default_3_6,No hay problema!! Toma un poco de guaraná de cualquiera de mis arbustos,No problem! Take some guarana from any of my bushes.,Sem problemas! Pegue um pouco de guaraná de qualquer um dos meus arbustos.,Pas de problème ! Prenez du guarana dans n'importe lequel de mes buissons.
-npc_botany_default_3_7,Estoy encantada de ayudar a quien sea que lo necesite,I am happy to help anyone who needs it.,Ficarei feliz em ajudar quem precisar.,Je suis heureux d'aider quiconque en a besoin.
-npc_botany_default_3_8,"Apúrate, lleva el guaraná al posadero","Hurry, take the guarana to the innkeeper","Depressa, leve o guaraná ao estalajadeiro","Dépêchez-vous, apportez le guarana à l'aubergiste"
-quest_02_new,Tengo vía libre para tomar guaraná de los arbustos,I have free rein to take guarana from the bushes,Tenho liberdade para tirar guaraná dos arbustos,J'ai carte blanche pour cueillir du guarana dans les buissons
-tree_guarana_locked,Un árbusto con frutos hermosos. No tengo permiso de tomarlos,A bush with beautiful fruits. I'm not allowed to take them.,Um arbusto com frutos lindos. Não tenho permissão para pegá-los.,Un buisson aux beaux fruits. Je n'ai pas le droit de les cueillir.
-npc_captain_success_1_1,Ahoy!! Eso si que es un gran café.,Ahoy!! Now that's some great coffee.,Ahoy!! Isso sim é que é um café ótimo.,"Ohé ! Ça, c'est du bon café."
-npc_captain_success_1_2,Tripilación!! Nos marchamos al anochecer!,Crew!! We're leaving at dusk!,Tripulação!! Partimos ao anoitecer!,L'équipage !! On part au crépuscule !
-quest_01_success,Ahora el barco puede partir!,Now the ship can sail!,Agora o navio pode navegar!,Maintenant le bateau peut naviguer !
