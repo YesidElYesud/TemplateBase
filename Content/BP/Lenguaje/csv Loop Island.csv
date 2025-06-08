@@ -47,9 +47,9 @@ npc_botany_success_1_1,Me ha dicho el Fitter que tu has ido a buscarlo. Estoy mu
 npc_botany_success_1_2,"Solucionada la crisis, tienes permiso de tomar cualquier fruto de mi jardín. ","Once the crisis is over, you are allowed to take any fruit from my garden.","Quando a crise acabar, você poderá pegar qualquer fruta do meu jardim.","Une fois la crise terminée, vous serez autorisé à prendre tous les fruits de mon jardin."
 npc_botany_success_1_3,"Sólo asegúrate de tomar los frutos maduros, eh?","Just make sure you pick the ripe fruit, eh?","Só não se esqueça de escolher a fruta madura, ok?","Assurez-vous simplement de cueillir les fruits mûrs, hein ?"
 npc_captain_default_1_1,Acabo de llegar a tierra y ya extraño a mi amor: el mar. ,"I have just arrived on land and I already miss my love: the sea. But it has been a very hard crossing, I am exhausted!","Acabei de aterrissar e já estou com saudades do meu amor: o mar. Mas foi uma travessia muito difícil, estou exausto!","Je viens d'atterrir et mon amour me manque déjà : la mer. Mais la traversée a été très dure, je suis épuisée !"
-npc_captain_default_1_2,"Pero ha sido una travesía muy dura, estoy exhausto!","But it has been a very hard journey, I am exhausted!","Mas tem sido uma jornada muito difícil, estou exausto!","Mais cela a été un voyage très dur, je suis épuisé !"
+npc_captain_default_1_2,"Pero ha sido una travesía muy dura, estoy exhausto!","But it has been a very hard journey, I am exhausted!","Mas tem sido uma jornada muito difícil, estou exausto!","Mais cela a été un voyage très dur, je suis épuisée !"
 npc_captain_default_2_1,"Requiero un café de este lugar, pero se les ha acabado el Guaraná. ","I need a coffee from this place, but they're out of Guaraná.","Preciso de um café deste lugar, mas eles estão sem guaraná.","J'ai besoin d'un café de cet endroit, mais ils n'ont plus de guarana."
-npc_captain_default_2_2,Me enferma tener que descansar en tierra!!. ,It makes me sick to have to rest on land!!,Fico doente de ter que descansar em terra firme!!,Ça me rend malade de devoir me reposer sur terre !
+npc_captain_default_2_2,Me enferma tener que descansar en tierra!!. ,It makes me sick to have to rest on land!!,Fico doente de ter que descansar em terra firme!!,Ça me rend malade de devoir me reposer sur terre !!
 npc_captain_default_2_3,"Ahh, como deseo volver a la mar....","Ahh, how I wish to return to the sea....","Ahh, como eu queria voltar para o mar...","Ahh, comme j'aimerais retourner à la mer...."
 npc_captain_inkeeper1,Se nos han acabado el extracto de guaraná. No podemos preparar nuestro café especial levantamuertos,"We're out of guarana extract. We can't make our special ""raise the dead"" coffee.","Estamos sem extrato de guaraná. Não podemos fazer nosso café especial ""ressuscita os mortos"".",Nous n'avons plus d'extrait de guarana. Impossible de préparer notre café spécial « résurrection des morts ».
 npc_captain_inkeeper2,Pero como es posible? Tendré que pasar una noche en tierra? ,But how is that possible? Will I have to spend a night on land?,Mas como isso é possível? Terei que passar uma noite em terra firme?,Mais comment est-ce possible ? Devrai-je passer une nuit à terre ?
@@ -124,3 +124,13 @@ yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a 
 npc_policeman_default_1_1,Los habitantes se encuentran realizando los preparativos del carnaval,The inhabitants are making preparations for the carnival.,Os moradores estão se preparando para o carnaval.,Les habitants préparent le carnaval.
 npc_policeman_default_1_2,El acceso al pueblo está cerrado hasta el mediodía,Access to the village is closed until noon.,O acesso à vila fica fechado até o meio-dia.,L'accès au village est fermé jusqu'à midi.
 npc_policeman_default_2_1,"El carnaval se canceló, es una pena!","Carnival was cancelled, it's a shame!","O Carnaval foi cancelado, é uma pena!","Le carnaval a été annulé, c'est une honte !"
+chiste1,Te voy a contar un chiste,I'm going to tell you a joke,Vou te contar uma piada,Je vais te raconter une blague
+chiste2,Espero te guste,I hope you like it,Espero que você goste,J'espère que ça vous plaira
+chiste3,...,...,...,...
+chiste4,¿Qué hace una vaca pensando? ,What is a cow doing thinking?,O que uma vaca está fazendo pensando?,À quoi pense une vache ?
+chiste5,Leche concentrada,Concentrated milk,Leite concentrado,Lait concentré
+chiste6,...,...,...,...
+chiste7,No es mal chiste,It's not a bad joke.,Não é uma piada ruim.,Ce n'est pas une mauvaise blague.
+chiste8,Toma este dulce,Take this candy,Pegue esse doce,Prends ce bonbon
+chiste9,"Ya te di el dulce, pierdete","I already gave you the candy, get lost","Eu já te dei o doce, vai embora","Je t'ai déjà donné les bonbons, va-t'en"
+txtquest7,Has recibido Caramelo,You have received Candy,Você recebeu Candy,Vous avez reçu des bonbons
