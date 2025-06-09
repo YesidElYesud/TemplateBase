@@ -157,7 +157,8 @@ yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a 
 npc_ship_policeman_default_1_1,El acceso al navío está prohibido hasta nueva orden,Access to the ship is prohibited until further notice.,O acesso ao navio está proibido até novo aviso.,L'accès au navire est interdit jusqu'à nouvel ordre.
 npc_ship_policeman_success_1_1,Disfrute su estancia en nuestro navío,Enjoy your stay on our ship,Aproveite sua estadia em nosso navio,Profitez de votre séjour sur notre navire
 door_playerhouse,La puerta está cerrada con llave,The door is locked,A porta está trancada,La porte est verrouillée
-npc_town_policeman_default_1_1,Velamos por la seguridad de todos los ciudadanos,We ensure the safety of all citizens,Garantimos a segurança de todos os cidadãos,Nous assurons la sécurité de tous les citoyens
+npc_town_policeman_default_1_1,El acceso a esta propiedad está prohibido,Access to this property is prohibited,O acesso a esta propriedade é proibido,L'accès à cette propriété est interdit
+npc_town_policeman_default_1_2,Velamos por la seguridad de todos los ciudadanos,We ensure the safety of all citizens,Garantimos a segurança de todos os cidadãos,Nous assurons la sécurité de tous les citoyens
 npc_cooker_default_1_1,Soy Paolo Mariani. El mejor cocinero de toda Italia,I'm Paolo Mariani. The best chef in all of Italy.,Eu sou Paolo Mariani. O melhor chef de toda a Itália.,Je suis Paolo Mariani. Le meilleur chef d'Italie.
 npc_cooker_default_1_2,Pero no han venido clientes ultimamente a mi restaurant,But no customers have come to my restaurant lately.,Mas nenhum cliente veio ao meu restaurante ultimamente.,Mais aucun client n'est venu dans mon restaurant ces derniers temps.
 npc_cooker_default_1_3,Te molestaría ayudarme repartiendo algunos volantes publicitarios?,Would you mind helping me by handing out some flyers?,Você se importaria de me ajudar distribuindo alguns panfletos?,Pourriez-vous m'aider en distribuant des dépliants ?
@@ -186,3 +187,32 @@ npc_home_prisoner_default_1_2,Hoy me he despertado con la sorpresa de que han qu
 npc_home_prisoner_default_1_3,Y ahora no puedo salir de casa. Una dama como yo no sabe hacer parkour,And now I can't leave the house. A lady like me can't do parkour.,E agora não posso sair de casa. Uma mulher como eu não sabe fazer parkour.,"Et maintenant, je ne peux plus sortir de chez moi. Une femme comme moi ne peut pas faire de parkour."
 npc_home_prisoner_default_1_4,Estoy hambrienta. ¿No tendrás algo de comer?,I'm hungry. Do you have anything to eat?,Estou com fome. Você tem alguma coisa para comer?,J'ai faim. Tu as quelque chose à manger ?
 npc_home_prisoner_success_1_1,"¿una pizza? ...iugh.... Bueno, será mejor que morir de hambre","A pizza? ...ugh.... Well, it'll be better than starving to death","Uma pizza? ...ugh... Bem, será melhor do que morrer de fome","Une pizza ? ...pouah... Eh bien, ce sera mieux que de mourir de faim"
+npc_joao_default_1_1,"Carnaval, carnaval, me encanta el carnaval!!
+","Carnival, carnival, I love carnival!!
+","Carnaval, carnaval, eu amo carnaval!!
+","Carnaval, carnaval, j'adore le carnaval !!"
+npc_joao_default_1_2,"Me recuerda a mi tierra natal ""Rio de Janeiro""","It reminds me of my homeland ""Rio de Janeiro""","Isso me lembra da minha terra natal ""Rio de Janeiro""",Cela me rappelle ma patrie « Rio de Janeiro »
+npc_joao_default_1_3,Tanto pensar en el carnaval me hizo dar hambre. ,Thinking so much about the carnival made me hungry.,Pensar tanto no carnaval me deu fome.,Penser autant au carnaval m’a donné faim.
+npc_joao_default_1_4,¿No sabrás donde hay un restaurante por aquí?,You don't know where there's a restaurant around here?,Você não sabe onde tem um restaurante por aqui?,Vous ne savez pas où il y a un restaurant dans le coin ?
+npc_joao_success_1_1,¿Un volante sobre un restaurante? Aver....,A flyer for a restaurant? Let's see...,Um panfleto para um restaurante? Vamos ver...,Un flyer pour un restaurant ? Voyons voir…
+npc_joao_success_1_2,.... QUÉ ? Pero si está justo al lado,.... WHAT? But it's right next door,.... O QUÊ? Mas é bem ao lado,.... QUOI ? Mais c'est juste à côté
+npc_joao_success_1_3,Tanto pensar en el carnaval me impidió notarlo. Gracias!,Thinking so much about Carnival kept me from noticing. Thanks!,Pensar tanto no Carnaval me impediu de perceber. Valeu!,J'ai tellement pensé au Carnaval que je n'y ai rien remarqué. Merci !
+quest_hungry_joao,El chico carioca tiene hambre,The carioca boy is hungry,O menino carioca está com fome,Le garçon carioca a faim
+arch10,sabes que fui uno de los creadores de estos hermosos pueblos?,Do you know that I was one of the creators of these beautiful towns?,Você sabia que eu fui um dos criadores dessas lindas cidades?,Savez-vous que j'ai été l'un des créateurs de ces belles villes ?
+arch11,viene desde la mañana buscando inspiración pero olvide mi café en casa.,I've been coming here since the morning looking for inspiration but I forgot my coffee at home.,"Estou aqui desde manhã procurando inspiração, mas esqueci meu café em casa.",Je viens ici depuis ce matin en quête d'inspiration mais j'ai oublié mon café à la maison.
+arch12,"si puedes traerlo, te lo agradeceria mucho... aunque ya es algo tarde para inspirarme.","If you could bring it, I would really appreciate it... although it's a bit late for inspiration.","Se você pudesse trazer, eu realmente agradeceria... embora seja um pouco tarde para inspiração.","Si tu pouvais l'apporter, je l'apprécierais vraiment... même si c'est un peu tard pour l'inspiration."
+arch_entry_01,Recibiste la llave del Arquitecto,You received the key from the Architect,Você recebeu a chave do Arquiteto,Vous avez reçu la clé de l'architecte
+arch20,llegué hace unas horas pero olvidé mi casa.,I arrived a few hours ago but I forgot my house.,"Cheguei há algumas horas, mas esqueci minha casa.",Je suis arrivé il y a quelques heures mais j'ai oublié ma maison.
+arch21,"Qué suerte, olvidé mi café y tú tienes uno extra contigo.","Lucky me, I forgot my coffee and you have an extra one with you.","Que sorte a minha, esqueci meu café e você tem um extra com você.",Heureusement que j'ai oublié mon café et tu en as un de plus avec toi.
+arch22,"Es frustrante que me pasen esas cosas, ya no siento inspiración.","It's frustrating when these things happen to me, I don't feel inspired anymore.",É frustrante quando essas coisas acontecem comigo. Não me sinto mais inspirado.,"C'est frustrant quand ces choses m'arrivent, je ne me sens plus inspiré."
+arch_entry_02,Ayudaste al Arquitecto.,You helped the Architect.,Você ajudou o Arquiteto.,Vous avez aidé l'architecte.
+inn10,La posada esta cerrada,The inn is closed,A pousada está fechada,L'auberge est fermée
+police10,"me gusta venir a la posada, es relajante y conozco gente nueva","I like coming to the inn, it's relaxing and I meet new people.","Gosto de vir à pousada, é relaxante e conheço pessoas novas.","J'aime venir à l'auberge, c'est relaxant et je rencontre de nouvelles personnes."
+police11,los rumores del volcan han espantado a muchas personas.,The rumors of the volcano have scared many people.,Os rumores sobre o vulcão assustaram muitas pessoas.,Les rumeurs concernant le volcan ont effrayé de nombreuses personnes.
+police12, la posada ha estado vacia desde el mediodia.,The inn has been empty since noon.,A pousada está vazia desde o meio-dia.,L'auberge est vide depuis midi.
+<<<<<<< Updated upstream
+=======
+seller10,bienvenido a mi negocio,Welcome to my business,Bem-vindo ao meu negócio,Bienvenue dans mon entreprise
+seller11,hoy no estamos en servicio,we are not in service today,não estamos em serviço hoje,nous ne sommes pas en service aujourd'hui
+cafe_entry,obtuviste el cafe del arquitecto,you got the architect's coffee,você pegou o café do arquiteto,tu as eu le café de l'architecte
+>>>>>>> Stashed changes
