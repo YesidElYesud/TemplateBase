@@ -122,7 +122,7 @@ random 4,una noche inolvidable... por desgracia. ,an unforgettable night... unfo
 random1,bonita mañana ¡he escuchado que el festival va a ser toda una maravilla!,"nice morning, i heard the festival is going to be a blast!","bom dia, ouvi dizer que o festival vai ser o máximo!","Bonjour, j'ai entendu dire que le festival allait être une vraie fête !"
 random2,"bueno, no hay festival pero parece que los fuegos artificiales aún están en pie.","well, there is no festival but it looks like the fireworks are still on.","bem, não há festa, mas parece que o fogo de artifício continua.","eh bien, il n'y a pas de festival, mais on dirait que les feux d'artifice sont toujours là."
 random3,mi familia debe estar esperándome en el puerto.,my family must be waiting for me at the port.,a minha família deve estar à minha espera no porto.,ma famille doit m'attendre au port.
-roberto1,"Bienevenido a mi tienda, aqui puedes hacer efectivo tu ticket de botellas.","Welcome to my store, you can cash in your bottle ticket here.","Bem-vindos à minha loja, aqui podem trocar o vosso bilhete de garrafa.","Bienvenue dans ma boutique, vous pouvez échanger votre ticket de bouteilles ici"
+roberto1,Bienvenido a la biblioteca. Disfruta de la lectura en silencio,"Welcome to my store, you can cash in your bottle ticket here.","Bem-vindos à minha loja, aqui podem trocar o vosso bilhete de garrafa.","Bienvenue dans ma boutique, vous pouvez échanger votre ticket de bouteilles ici"
 roberto11,"Bienevenido a mi tienda, vuelve cuando tengas tu ticket de botellas","Welcome to my store, I'm happy to see you again.","Bem-vindos à minha loja, voltem quando tiverem o vosso bilhete de garrafa","Bienvenue dans ma boutique, je suis heureux de vous revoir."
 roberto2,"Ese rumor ha espantado a todo el mundo, pero yo estoy aqui para ti.
 recuerda traer tu ticket de botellas.","That rumor has scared everyone, but I'm here for you.
@@ -154,7 +154,7 @@ yesid2,¿has escuchado los rumores? será mejor prepararse.,have you heard the r
 yesid3,"ha sido un día triste, mucha gente quedó atrás.","it's been a sad day, many people left behind.","foi um dia triste, muitas pessoas ficaram para trás.","c'est une triste journée, beaucoup de gens sont restés derrière."
 yesid4,"ha sido un dia triste, gracias por ayudar.","it's been a sad day, thanks for helping.","foi um dia triste, obrigado por ajudares.","c'est une triste journée, merci d'avoir aidé."
 yesid5,"ha sido un día duro, gracias a ti muchos de han salvado.","it's been a hard day, thanks to you many have been saved.","foi um dia difícil, graças a ti muitos foram salvos.","c'est une dure journée, grâce à toi beaucoup ont été sauvés."
-npc_ship_policeman_default_1_1,El acceso al navío está prohibido hasta nueva orden,Access to the ship is prohibited until further notice.,O acesso ao navio está proibido até novo aviso.,L'accès au navire est interdit jusqu'à nouvel ordre.
+npc_ship_policeman_default_1_1,El acceso al navío está prohibido hasta nueva orden,Access to the ship is prohibited until further notice.,w,L'accès au navire est interdit jusqu'à nouvel ordre.
 npc_ship_policeman_success_1_1,Disfrute su estancia en nuestro navío,Enjoy your stay on our ship,Aproveite sua estadia em nosso navio,Profitez de votre séjour sur notre navire
 door_playerhouse,La puerta está cerrada con llave,The door is locked,A porta está trancada,La porte est verrouillée
 npc_town_policeman_default_1_1,El acceso a esta propiedad está prohibido,Access to this property is prohibited,O acesso a esta propriedade é proibido,L'accès à cette propriété est interdit
@@ -202,7 +202,7 @@ arch10,sabes que fui uno de los creadores de estos hermosos pueblos?,Do you know
 arch11,viene desde la mañana buscando inspiración pero olvide mi café en casa.,I've been coming here since the morning looking for inspiration but I forgot my coffee at home.,"Estou aqui desde manhã procurando inspiração, mas esqueci meu café em casa.",Je viens ici depuis ce matin en quête d'inspiration mais j'ai oublié mon café à la maison.
 arch12,"si puedes traerlo, te lo agradeceria mucho... aunque ya es algo tarde para inspirarme.","If you could bring it, I would really appreciate it... although it's a bit late for inspiration.","Se você pudesse trazer, eu realmente agradeceria... embora seja um pouco tarde para inspiração.","Si tu pouvais l'apporter, je l'apprécierais vraiment... même si c'est un peu tard pour l'inspiration."
 arch_entry_01,Recibiste la llave del Arquitecto,You received the key from the Architect,Você recebeu a chave do Arquiteto,Vous avez reçu la clé de l'architecte
-arch20,llegué hace unas horas pero olvidé mi casa.,I arrived a few hours ago but I forgot my house.,"Cheguei há algumas horas, mas esqueci minha casa.",Je suis arrivé il y a quelques heures mais j'ai oublié ma maison.
+arch20,llegué hace unas horas pero olvidé el cafe en mi casa.,I arrived a few hours ago but I forgot the coffee at home.,"Cheguei há algumas horas, mas esqueci o café em casa.",Je suis arrivé il y a quelques heures mais j'ai oublié le café à la maison.
 arch21,"Qué suerte, olvidé mi café y tú tienes uno extra contigo.","Lucky me, I forgot my coffee and you have an extra one with you.","Que sorte a minha, esqueci meu café e você tem um extra com você.",Heureusement que j'ai oublié mon café et tu en as un de plus avec toi.
 arch22,"Es frustrante que me pasen esas cosas, ya no siento inspiración.","It's frustrating when these things happen to me, I don't feel inspired anymore.",É frustrante quando essas coisas acontecem comigo. Não me sinto mais inspirado.,"C'est frustrant quand ces choses m'arrivent, je ne me sens plus inspiré."
 arch_entry_02,Ayudaste al Arquitecto.,You helped the Architect.,Você ajudou o Arquiteto.,Vous avez aidé l'architecte.
@@ -210,9 +210,6 @@ inn10,La posada esta cerrada,The inn is closed,A pousada está fechada,L'auberge
 police10,"me gusta venir a la posada, es relajante y conozco gente nueva","I like coming to the inn, it's relaxing and I meet new people.","Gosto de vir à pousada, é relaxante e conheço pessoas novas.","J'aime venir à l'auberge, c'est relaxant et je rencontre de nouvelles personnes."
 police11,los rumores del volcan han espantado a muchas personas.,The rumors of the volcano have scared many people.,Os rumores sobre o vulcão assustaram muitas pessoas.,Les rumeurs concernant le volcan ont effrayé de nombreuses personnes.
 police12, la posada ha estado vacia desde el mediodia.,The inn has been empty since noon.,A pousada está vazia desde o meio-dia.,L'auberge est vide depuis midi.
-<<<<<<< Updated upstream
-=======
 seller10,bienvenido a mi negocio,Welcome to my business,Bem-vindo ao meu negócio,Bienvenue dans mon entreprise
 seller11,hoy no estamos en servicio,we are not in service today,não estamos em serviço hoje,nous ne sommes pas en service aujourd'hui
 cafe_entry,obtuviste el cafe del arquitecto,you got the architect's coffee,você pegou o café do arquiteto,tu as eu le café de l'architecte
->>>>>>> Stashed changes
